@@ -46,4 +46,4 @@ Currently, I'm working as a DevOps Intern 👨🏽‍💼.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Devansharma&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Devansh's GitHub Stats">
 
-⭐️ From [ZamranxD](https://github.com/Devansharma)
+⭐️ From [Devansharma](https://github.com/Devansharma)
