@@ -23,7 +23,7 @@ Currently, I'm working as a DevOps Intern 👨🏽‍💼.
 **About Me!**
 
 - 👨🏽‍💻 I completed my engineering from Chandigarh University in Electronics and Communication Engineering.
-- 🌱 I’m currently exploring MERN stack Web Development. 
+- 🌱 I’m currently exploring Web Development with MERN stack. 
 - 🤔 My interests are DevOps technologies, Artificial Intelligence and developing some useful and cool stuff xD
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [devansharma92@gmail.com](mailto:devansharma92@gmail.com).
