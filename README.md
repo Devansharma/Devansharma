@@ -44,7 +44,8 @@ Currently, I'm working as a DevOps Intern at Integration Wizards👨🏽‍💼.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://www.jenkins.io/images/logos/jenkins/256.png"></code>
-<code><img height="20" src="https://icons-for-free.com/iconfiles/png/512/ansible-1324440121259978233.png"></code>
+<code><img height="20" src="https://sloopstash.com/assets/image/training/ansible/icon.svg"></code>
+<code><img height="20" src="https://www.terraform.io/docs/cloud/vcs/images/tfe_logo-c7548f8d.png"></code>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Devansharma&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Devansh's GitHub Stats">
 
