@@ -16,7 +16,7 @@
 <br />
 
 Hi there, I'm **Devansh Sharma**, a **Technology Enthusiast** 🚀 from Solan, Himachal Pradesh.
-Currently, I'm working as a DevOps Intern 👨🏽‍💼.
+Currently, I'm working as a DevOps Intern at Integration Wizards👨🏽‍💼.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -43,6 +43,7 @@ Currently, I'm working as a DevOps Intern 👨🏽‍💼.
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://www.jenkins.io/images/logos/jenkins/256.png"></code>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Devansharma&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Devansh's GitHub Stats">
 
